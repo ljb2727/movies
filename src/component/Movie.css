@@ -98,3 +98,13 @@ body,
 .movie .movie_year {
   padding-left: 130px;
 }
+
+#root {
+  width: 100vw;
+  text-align: center;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+}
